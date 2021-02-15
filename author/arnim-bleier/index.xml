@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnim Bleier | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/arnim-bleier/</link>
+      <atom:link href="https://sebastianstier.com/author/arnim-bleier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnim Bleier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Arnim Bleier</title>
+      <link>https://sebastianstier.com/author/arnim-bleier/</link>
+    </image>
+    
+    <item>
+      <title>Election Campaigning on Social Media: Politicians, Audiences, and the Mediation of Political Communication on Facebook and Twitter</title>
+      <link>https://sebastianstier.com/publication/stier-2018-polcomm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/stier-2018-polcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematically Monitoring Social Media</title>
+      <link>https://sebastianstier.com/publication/stier-2018-monitoring/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/stier-2018-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When populists become popular: comparing Facebook use by the right-wing movement Pegida and German political parties</title>
+      <link>https://sebastianstier.com/publication/stier-2017-ics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/stier-2017-ics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
