@@ -38,7 +38,22 @@
   </url>
   
   <url>
+    <loc>https://sebastianstier.com/author/alessandro-nai/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sebastianstier.com/authors/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/author/carlos-jalali/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/author/corinna-oschatz/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +73,17 @@
   </url>
   
   <url>
+    <loc>https://sebastianstier.com/author/jurgen-maier/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sebastianstier.com/author/michael-scharkow/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/author/michaela-maier/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,6 +114,16 @@
   
   <url>
     <loc>https://sebastianstier.com/publication/mangold-nmas-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/publication/oschatz-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/publication/maier-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -274,11 +309,6 @@
   
   <url>
     <loc>https://sebastianstier.com/author/haiko-lietz/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastianstier.com/author/jurgen-maier/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
