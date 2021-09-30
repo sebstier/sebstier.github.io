@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://sebastianstier.com/author/frank-mangold/</loc>
+    <lastmod>2021-04-07T14:57:43+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sebastianstier.com/author/johannes-breuer/</loc>
     <lastmod>2021-04-07T14:57:43+00:00</lastmod>
   </url>
@@ -59,6 +64,16 @@
   
   <url>
     <loc>https://sebastianstier.com/author/mario-haim/</loc>
+    <lastmod>2021-04-07T14:57:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/author/michael-scharkow/</loc>
+    <lastmod>2021-04-07T14:57:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/publication/stier-2021-apsr/</loc>
     <lastmod>2021-04-07T14:57:43+00:00</lastmod>
   </url>
   
@@ -93,12 +108,17 @@
   </url>
   
   <url>
+    <loc>https://sebastianstier.com/author/caterina-froio/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sebastianstier.com/author/corinna-oschatz/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sebastianstier.com/author/frank-mangold/</loc>
+    <loc>https://sebastianstier.com/publication/stier-2020-wep/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,11 +129,6 @@
   
   <url>
     <loc>https://sebastianstier.com/author/jurgen-maier/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastianstier.com/author/michael-scharkow/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,8 +163,8 @@
   </url>
   
   <url>
-    <loc>https://sebastianstier.com/author/caterina-froio/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://sebastianstier.com/author/wolf-j.-schunemann/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +174,6 @@
   
   <url>
     <loc>https://sebastianstier.com/author/franziska-keller/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastianstier.com/publication/stier-2020-wep/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -204,11 +214,6 @@
   
   <url>
     <loc>https://sebastianstier.com/publication/stier-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastianstier.com/author/wolf-j.-schunemann/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
