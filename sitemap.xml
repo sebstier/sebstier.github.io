@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://sebastianstier.com/publication-type/6/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sebastianstier.com/author/alessandro-nai/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -114,6 +119,11 @@
   
   <url>
     <loc>https://sebastianstier.com/author/corinna-oschatz/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/publication/blauer-band-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -250,11 +260,6 @@
   <url>
     <loc>https://sebastianstier.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastianstier.com/publication-type/6/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -528,6 +533,10 @@
   
   <url>
     <loc>https://sebastianstier.com/project/negative-campaigning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sebastianstier.com/project/poltrack/</loc>
   </url>
   
   <url>
