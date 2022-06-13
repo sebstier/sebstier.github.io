@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mario Haim | Sebastian Stier</title>
-    <link>https://sebastianstier.com/author/mario-haim/</link>
-      <atom:link href="https://sebastianstier.com/author/mario-haim/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mario Haim</description>
+    <title>Zoltan Kmetty | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/zoltan-kmetty/</link>
+      <atom:link href="https://sebastianstier.com/author/zoltan-kmetty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zoltan Kmetty</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 14:57:43 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Mario Haim</title>
-      <link>https://sebastianstier.com/author/mario-haim/</link>
+      <title>Zoltan Kmetty</title>
+      <link>https://sebastianstier.com/author/zoltan-kmetty/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sebastianstier.com/publication/breuer-2022/</link>
       <pubDate>Sat, 07 May 2022 14:57:43 +0000</pubDate>
       <guid>https://sebastianstier.com/publication/breuer-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do news actually &#39;find me&#39;? Using digital behavioral data to study the news-finds-me phenomenon</title>
-      <link>https://sebastianstier.com/publication/haim-2021/</link>
-      <pubDate>Wed, 07 Apr 2021 14:57:43 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/haim-2021/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://sebastianstier.com/author/johannes-breuer/</link>
       <atom:link href="https://sebastianstier.com/author/johannes-breuer/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Breuer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 14:57:43 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 14:57:43 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Johannes Breuer</title>
       <link>https://sebastianstier.com/author/johannes-breuer/</link>
     </image>
+    
+    <item>
+      <title>User-centric approaches for collecting Facebook data in the `post-API age&#39;: Experiences from two studies and recommendations for future research</title>
+      <link>https://sebastianstier.com/publication/breuer-2022/</link>
+      <pubDate>Sat, 07 May 2022 14:57:43 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/breuer-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Post Post-Broadcast Democracy? News Exposure in the Age of Online Intermediaries</title>
