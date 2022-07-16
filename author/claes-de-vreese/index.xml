@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claes de Vreese | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/claes-de-vreese/</link>
+      <atom:link href="https://sebastianstier.com/author/claes-de-vreese/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claes de Vreese</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 14:57:43 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Claes de Vreese</title>
+      <link>https://sebastianstier.com/author/claes-de-vreese/</link>
+    </image>
+    
+    <item>
+      <title>Is sharing just a function of viewing? The sharing of political and non-political news on Facebook</title>
+      <link>https://sebastianstier.com/publication/trilling-2022/</link>
+      <pubDate>Wed, 04 May 2022 14:57:43 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/trilling-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
