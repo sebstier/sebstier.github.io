@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pascal Siegers | Sebastian Stier</title>
-    <link>https://sebastianstier.com/author/pascal-siegers/</link>
-      <atom:link href="https://sebastianstier.com/author/pascal-siegers/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pascal Siegers</description>
+    <title>Florian Keusch | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/florian-keusch/</link>
+      <atom:link href="https://sebastianstier.com/author/florian-keusch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Keusch</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 14:57:43 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Pascal Siegers</title>
-      <link>https://sebastianstier.com/author/pascal-siegers/</link>
+      <title>Florian Keusch</title>
+      <link>https://sebastianstier.com/author/florian-keusch/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sebastianstier.com/publication/silber-2022/</link>
       <pubDate>Sun, 01 May 2022 14:57:43 +0000</pubDate>
       <guid>https://sebastianstier.com/publication/silber-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field</title>
-      <link>https://sebastianstier.com/publication/stier-2019-sscore/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/stier-2019-sscore/</guid>
       <description></description>
     </item>
     
