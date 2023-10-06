@@ -5,12 +5,44 @@
     <link>https://sebastianstier.com/author/sebastian-stier/</link>
       <atom:link href="https://sebastianstier.com/author/sebastian-stier/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Stier</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 14:57:43 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sebastian Stier</title>
       <link>https://sebastianstier.com/author/sebastian-stier/</link>
     </image>
+    
+    <item>
+      <title>Establishing standards for human-annotated samples applied in supervised machine learning: Evidence from a Monte Carlo simulation</title>
+      <link>https://sebastianstier.com/publication/oschatz-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/oschatz-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Issue trade-offs and the politics of representation: Experimental evidence from four European democracies</title>
+      <link>https://sebastianstier.com/publication/kirkizh-2022/</link>
+      <pubDate>Sun, 07 May 2023 14:57:43 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/kirkizh-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are candidates rational when it comes to negative campaigning? Empirical evidence from three German candidate surveys</title>
+      <link>https://sebastianstier.com/publication/maier-pp-2022/</link>
+      <pubDate>Sat, 07 Jan 2023 14:57:43 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/maier-pp-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mainstreaming the populist radical right? Online news exposure and voting behavior in the 2019 European Parliament election</title>
+      <link>https://sebastianstier.com/publication/stier-2023-epsr/</link>
+      <pubDate>Sat, 07 Jan 2023 14:57:43 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/stier-2023-epsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is sharing just a function of viewing? The sharing of political and non-political news on Facebook</title>
@@ -61,14 +93,6 @@
     </item>
     
     <item>
-      <title>Are candidates rational when it comes to negative campaigning? Empirical evidence from three German candidate surveys</title>
-      <link>https://sebastianstier.com/publication/maier-pp-2022/</link>
-      <pubDate>Fri, 07 Jan 2022 14:57:43 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/maier-pp-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Coordination patterns reveal online political astroturfing across the world</title>
       <link>https://sebastianstier.com/publication/schoch-2022/</link>
       <pubDate>Fri, 07 Jan 2022 14:57:43 +0000</pubDate>
@@ -77,18 +101,18 @@
     </item>
     
     <item>
-      <title>Issue trade-offs and the politics of representation: Experimental evidence from four European democracies</title>
-      <link>https://sebastianstier.com/publication/kirkizh-2022/</link>
-      <pubDate>Fri, 07 Jan 2022 14:57:43 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/kirkizh-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Who represents the constituency? Online political communication by members of parliament in the German mixed-member electoral system</title>
       <link>https://sebastianstier.com/publication/schuermann-2022/</link>
       <pubDate>Sat, 01 Jan 2022 14:57:43 +0000</pubDate>
       <guid>https://sebastianstier.com/publication/schuermann-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The overstated generational gap in online news use? A consolidated infrastructural perspective</title>
+      <link>https://sebastianstier.com/publication/mangold-nmas-2021/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/mangold-nmas-2021/</guid>
       <description></description>
     </item>
     
@@ -129,14 +153,6 @@
       <link>https://sebastianstier.com/publication/yan-ics-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/publication/yan-ics-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The overstated generational gap in online news use? A consolidated infrastructural perspective</title>
-      <link>https://sebastianstier.com/publication/mangold-nmas-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/mangold-nmas-2021/</guid>
       <description></description>
     </item>
     
@@ -353,6 +369,30 @@
       <link>https://sebastianstier.com/publication/stier-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/publication/stier-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Web Browsing Data: A Guide</title>
+      <link>https://sebastianstier.com/publication/clemm-2023/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>https://sebastianstier.com/publication/clemm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die Verknüpfung von digitalen Verhaltensdaten und Umfragedaten</title>
+      <link>https://sebastianstier.com/publication/weiss-2023/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>https://sebastianstier.com/publication/weiss-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neue Infrastrukturen für die Messung digitaler Mediennutzung</title>
+      <link>https://sebastianstier.com/publication/mangold-2023/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>https://sebastianstier.com/publication/mangold-2023/</guid>
       <description></description>
     </item>
     

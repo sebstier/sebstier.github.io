@@ -5,12 +5,20 @@
     <link>https://sebastianstier.com/author/marius-saltzer/</link>
       <atom:link href="https://sebastianstier.com/author/marius-saltzer/index.xml" rel="self" type="application/rss+xml" />
     <description>Marius Sältzer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 14:57:43 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Marius Sältzer</title>
       <link>https://sebastianstier.com/author/marius-saltzer/</link>
     </image>
+    
+    <item>
+      <title>Establishing standards for human-annotated samples applied in supervised machine learning: Evidence from a Monte Carlo simulation</title>
+      <link>https://sebastianstier.com/publication/oschatz-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/oschatz-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Die Bundestagswahl 2021 auf Twitter</title>
