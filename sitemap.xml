@@ -1,784 +1,470 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://sebastianstier.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication-type/2/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/ana-s.-cardenal/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/clemm-2023/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/andrew-m.-guess/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/authors/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/bernhard-clemm-von-hohenberg/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/ericka-menchen-trevino/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/frank-mangold/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/lukas-otto/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/magdalena-wojcieszak/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/mareike-wieland/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/mangold-2023/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication_types/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/sebastian-stier/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/caterina-froio/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/corinna-oschatz/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/weiss-2023/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/oschatz-2023/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/julia-wei%C3%9F/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/justin-chun-ting-ho/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2023-epsr/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/marius-saltzer/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/maier-pers-2022/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/ingo-zettler/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/jurgen-maier/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/kirkizh-2022/</loc>
     <lastmod>2023-05-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/nora-kirkizh/</loc>
     <lastmod>2023-05-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/maier-pp-2022/</loc>
     <lastmod>2023-01-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/bernd-wei%C3%9F/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/fabian-flock/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/ines-schaurer/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/johannes-breuer/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/mirjan-kummerow/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-prx-2022/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/timo-hartmann/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/agnieszka-stepinska/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/claes-de-vreese/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/cornelius-puschmann/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/cristian-vaccari/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/damian-trilling/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/denis-halagiera/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/trilling-2022/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/jakub-jakubowski/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/judith-moller/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/juhi-kulshrestha/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/mario-haim/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/breuer-2022/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/zoltan-kmetty/</loc>
     <lastmod>2022-05-04T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/saeltzer-2022/</loc>
     <lastmod>2022-05-01T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/bernd-weiss/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/christoph-beuthner/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/florian-keusch/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/henning-silber/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/silber-2022/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/pascal-siegers/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/tobias-gummer/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/michael-scharkow/</loc>
     <lastmod>2022-04-20T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2021-apsr/</loc>
     <lastmod>2022-04-20T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/schoch-2022/</loc>
     <lastmod>2022-01-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/david-schoch/</loc>
     <lastmod>2022-01-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/franziska-keller/</loc>
     <lastmod>2022-01-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/junghwan-yang/</loc>
     <lastmod>2022-01-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/lennart-schurmann/</loc>
     <lastmod>2022-01-01T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/schuermann-2022/</loc>
     <lastmod>2022-01-01T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/mangold-nmas-2021/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/haim-2021/</loc>
     <lastmod>2021-04-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/richter-2021/</loc>
     <lastmod>2021-04-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/simon-richter/</loc>
     <lastmod>2021-04-07T14:57:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication-type/6/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/alessandro-nai/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/carlos-jalali/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/blauer-band-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2020-wep/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/yan-ics-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/michaela-maier/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/pu-yan/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/ralph-schroeder/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/oschatz-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/maier-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/wolf-j.-schunemann/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/scharkow-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2019-sscore/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/kjerstin-thorson/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/keller-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/sebastian-stier/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/andreas-jungherr/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/rau-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/jungherr-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-jungherr-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2019-internet/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/jan-philipp-rau/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/jorn-stegmeier/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/marcus-muller/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/maria-becker/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/becker-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/stefan-steiger/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication-type/4/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/arnim-bleier/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2018-polcomm/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/fabian-morsheim/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/haiko-lietz/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/lisa-posch/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/mahdi-bohlouli/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/malte-bonart/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/margarita-nizhegorodov/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/markus-strohmaier/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2018-nmas/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/steffen-staab/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2018-monitoring/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/tobias-rothmund/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication-type/5/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/keller-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2017-telecomm/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2017-diss/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2017-mediafreedom/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2017-ics/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2016-websci/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2016-www/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/schunemann-2016-zfvp/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/tag/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/category/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/tag/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2015-democ/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2015-gov/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2015-bieber/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/schunemann-2015-internetpol/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/publication/stier-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/author/keller-franziska-b./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/project/negative-campaigning/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/project/poltrack/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/project/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/project/web-track/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sebastianstier.com/project/online-populism/</loc>
   </url>
-  
 </urlset>
