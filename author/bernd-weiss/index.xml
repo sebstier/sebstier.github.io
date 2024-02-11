@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bernd Weiß | Sebastian Stier</title>
-    <link>https://sebastianstier.com/author/bernd-wei%C3%9F/</link>
-      <atom:link href="https://sebastianstier.com/author/bernd-wei%C3%9F/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bernd Weiß</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <title>Bernd Weiss | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/bernd-weiss/</link>
+      <atom:link href="https://sebastianstier.com/author/bernd-weiss/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernd Weiss</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Bernd Weiß</title>
-      <link>https://sebastianstier.com/author/bernd-wei%C3%9F/</link>
+      <title>Bernd Weiss</title>
+      <link>https://sebastianstier.com/author/bernd-weiss/</link>
     </image>
     
     <item>
-      <title>The role of the information environment during the first COVID-19 wave in Germany</title>
-      <link>https://sebastianstier.com/publication/stier-prx-2022/</link>
-      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/stier-prx-2022/</guid>
+      <title>Linking surveys and digital trace data: Insights from two studies on determinants of data sharing behavior</title>
+      <link>https://sebastianstier.com/publication/silber-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/silber-2022/</guid>
       <description></description>
     </item>
     
