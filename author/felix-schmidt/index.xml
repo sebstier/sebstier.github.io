@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roberto Ulloa | Sebastian Stier</title>
-    <link>https://sebastianstier.com/author/roberto-ulloa/</link>
-      <atom:link href="https://sebastianstier.com/author/roberto-ulloa/index.xml" rel="self" type="application/rss+xml" />
-    <description>Roberto Ulloa</description>
+    <title>Felix Schmidt | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/felix-schmidt/</link>
+      <atom:link href="https://sebastianstier.com/author/felix-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felix Schmidt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Roberto Ulloa</title>
-      <link>https://sebastianstier.com/author/roberto-ulloa/</link>
+      <title>Felix Schmidt</title>
+      <link>https://sebastianstier.com/author/felix-schmidt/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sebastianstier.com/publication/schmidt-2024/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/publication/schmidt-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting political attitudes from web tracking data: A machine learning approach</title>
-      <link>https://sebastianstier.com/publication/kirkizh-2024/</link>
-      <pubDate>Sun, 07 Jan 2024 14:57:43 +0000</pubDate>
-      <guid>https://sebastianstier.com/publication/kirkizh-2024/</guid>
       <description></description>
     </item>
     
