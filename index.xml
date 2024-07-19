@@ -7,7 +7,7 @@
     <description>Sebastian Stier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sebastian Stier</title>
       <link>https://sebastianstier.com/</link>
     </image>
@@ -74,6 +74,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Politicized and paranoid? Assessing attitudinal predictors of alternative news consumption</title>
+      <link>https://sebastianstier.com/publication/puschmann-2024/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/puschmann-2024/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -372,14 +380,14 @@ data.head()
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}&lt;em&gt;{n}) - \nabla F(\mathbf{x}&lt;/em&gt;{n-1}) \right |^2}$$&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -601,7 +609,7 @@ You found me!
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;png&#34; src=&#34;https://sebastianstier.com/post/jupyter/index_1_0.png&#34;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
@@ -638,7 +646,8 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -696,15 +705,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -907,7 +916,7 @@ Three
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;&amp;#x2764;&amp;#xfe0f; &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -917,7 +926,7 @@ Three
 &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;👕 
 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
+&lt;li&gt;&amp;#x1f469;&amp;zwj;&amp;#x1f4bb; 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -1146,7 +1155,7 @@ Figure 1: A fancy pie chart.
       <link>https://sebastianstier.com/project/negative-campaigning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/project/negative-campaigning/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sebastianstier.com/files/nc_surveys.png&#34; alt=&#34;nc_surveys&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;nc_surveys&#34; src=&#34;https://sebastianstier.com/files/nc_surveys.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Research on negative campaigning (NC), i.e., verbal attacks on political opponents, has gained considerable attention in recent years. Studies suggest that NC can have dysfunctional consequences for democracy (e.g. polarization, declining trust in politics). This applies in particular to negative campaign strategies that attack an opponent personally or in an uncivil manner. However, the causes and effects of NC have rarely been analyzed outside of the United States. This project, jointly led with 
 &lt;a href=&#34;https://www.uni-koblenz-landau.de/de/landau/fb6/sowi/pw/abteilung/politische-kommunikation/team/Maier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jürgen Maier&lt;/a&gt; (University of Koblenz-Landau) and 
@@ -1177,13 +1186,13 @@ Figure 1: A fancy pie chart.
       <link>https://sebastianstier.com/project/web-track/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/project/web-track/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sebastianstier.com/files/webtrack_design.png&#34; alt=&#34;voters&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;voters&#34; src=&#34;https://sebastianstier.com/files/webtrack_design.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;During election campaigns, many of the political messages citizens receive are negative – be it via strategic negative campaigning, media coverage or uncivil online conversations. Many studies in political communication and psychology have already focused on the effects of negativity on citizens’ reactions, e.g., attention and emotions, evaluation of politicians, or voting behavior. Most of these studies, however, investigated citizens’ political communication in isolation focusing on just one channel. Studies that focus on effects of negative information received from mass media as well as interpersonal communication environments online and offline (in the following MIC), are to the best of our knowledge non-existent – despite the obvious interactions in terms of processes and effects.&lt;/p&gt;
 &lt;p&gt;In addition, most studies on negativity in campaigns either focus on traditional explanations of its effects on political outcomes through survey self-reports or they try to analyze the information processing of negative information, mostly within experimental designs. It has hardly been possible to observe the effects of negativity on fast-lived variables like attention and emotions in-situ and to analyze its effects on political outcomes in an integrated research design. As a consequence, the state of research regarding the overall impact of negative political communication on important political outcomes such as evaluation of political actors, voting behavior and affective polarization so far has been fairly inconclusive.&lt;/p&gt;
 &lt;p&gt;In this project, jointly led with 
 &lt;a href=&#34;https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/mmaier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michaela Maier&lt;/a&gt; (University of Koblenz-Landau) and 
-&lt;a href=&#34;https://lukasotto.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lukas Otto&lt;/a&gt; (Amsterdam School of Communication Research), we aim to comprehensively analyze the effects of negativity in MIC during election campaigns to make a fourfold contribution to the state of research: First, we examine the dynamic exposure of citizens to negative political communication in various communication environments during an election campaign. Thereby, investigating the different communication types in one research design also allows us to analyze the reciprocal relations between mediated and interpersonal communication online and offline. Second, we analyze the short-term effects of negative contents on attentional and emotional processing, and third, longer-term effects on political outcomes. By taking a longitudinal perspective, we conceptualize and measure exposure to and effects of negativity during campaigns as dynamic processes. Fourth, we methodologically contribute to the state of research by using an innovative methodology that allows us to observe the aforementioned processes in a real-world setting: we combine approaches of offline and online tracking to continuously observe citizens&#39; engagement in political communication, surveys to assess their short-term and long-term reactions, and automated content analysis to link participants&#39; reactions to concrete communication contents. The study will be conducted during the hot phase of the German federal election campaign in September 2021.&lt;/p&gt;
+&lt;a href=&#34;https://lukasotto.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lukas Otto&lt;/a&gt; (Amsterdam School of Communication Research), we aim to comprehensively analyze the effects of negativity in MIC during election campaigns to make a fourfold contribution to the state of research: First, we examine the dynamic exposure of citizens to negative political communication in various communication environments during an election campaign. Thereby, investigating the different communication types in one research design also allows us to analyze the reciprocal relations between mediated and interpersonal communication online and offline. Second, we analyze the short-term effects of negative contents on attentional and emotional processing, and third, longer-term effects on political outcomes. By taking a longitudinal perspective, we conceptualize and measure exposure to and effects of negativity during campaigns as dynamic processes. Fourth, we methodologically contribute to the state of research by using an innovative methodology that allows us to observe the aforementioned processes in a real-world setting: we combine approaches of offline and online tracking to continuously observe citizens&amp;rsquo; engagement in political communication, surveys to assess their short-term and long-term reactions, and automated content analysis to link participants&amp;rsquo; reactions to concrete communication contents. The study will be conducted during the hot phase of the German federal election campaign in September 2021.&lt;/p&gt;
 </description>
     </item>
     
@@ -1192,9 +1201,9 @@ Figure 1: A fancy pie chart.
       <link>https://sebastianstier.com/project/online-populism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/project/online-populism/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sebastianstier.com/files/voters.png&#34; alt=&#34;voters&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;voters&#34; src=&#34;https://sebastianstier.com/files/voters.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Scholars highlight several mechanisms of how digital media might benefit populists: (1) populist parties use digital media to bypass media gatekeepers that tend to obfuscate and filter their populist message; (2) social network sites such as Facebook and Twitter open up direct channels of communication between populist parties and voters/supporters, thereby bringing to life a core promise of the populist worldview; (3) social media are conducive to the spread of misinformation and disinformation that are core components in the communication strategies of populist parties; and (4) mainstream media amplify populist actors&#39; online contents as they are reliable providers of scandals and have a massive news value.&lt;/p&gt;
+&lt;p&gt;Scholars highlight several mechanisms of how digital media might benefit populists: (1) populist parties use digital media to bypass media gatekeepers that tend to obfuscate and filter their populist message; (2) social network sites such as Facebook and Twitter open up direct channels of communication between populist parties and voters/supporters, thereby bringing to life a core promise of the populist worldview; (3) social media are conducive to the spread of misinformation and disinformation that are core components in the communication strategies of populist parties; and (4) mainstream media amplify populist actors&amp;rsquo; online contents as they are reliable providers of scandals and have a massive news value.&lt;/p&gt;
 &lt;p&gt;Together with the other two PIs 
 &lt;a href=&#34;https://www.sciencespo.fr/centre-etudes-europeennes/en/researcher/caterina-froio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caterina Froio&lt;/a&gt; (Sciences Po, Paris) and 
 &lt;a href=&#34;https://www.oii.ox.ac.uk/people/ralph-schroeder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ralph Schroeder&lt;/a&gt; (University of Oxford) and our respective teams, I test these theories using web browsing histories and multiple survey waves that were collected with the informed consent of more than 8,000 study participants in six countries. In addition, we collected the social media posts of a large sample of politicians and parties on Facebook and Twitter and conducted conjoint experiments. The research period captures the three months preceding the European Parliament (EP) election 2019 in six countries: France, Germany, Italy, Spain, the UK and the U.S., which is the reference case in much of political communication research.&lt;/p&gt;
