@@ -1159,7 +1159,7 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Developing AI-Powered survey infrastructures to enhance resilience research</title>
+      <title>Developing AI-Ppwered survey infrastructures to enhance resilience research</title>
       <link>https://sebastianstier.com/project/airesil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/project/airesil/</guid>
@@ -1167,7 +1167,7 @@ Figure 1: A fancy pie chart.
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;How to improve the resilience of individuals and societies in times of crises is a key question for public health. Research into resilience as the maintenance or quick recovery of mental health after major life events has so far primarily been based on panel surveys. Yet, the disadvantages of established measurements might bias results in several ways: (i) some life events are underreported due to recall bias, and the time gap between reported life events and survey participation is often unknown and varies individually, and (ii) life events themselves can lead to incomplete or missing responses.&lt;/p&gt;
 &lt;p&gt;This project will address both problems through an Artificial Intelligence (AI)-powered survey infrastructure that combines survey and web tracking data collected in the new GESIS Panel.dbd with open-source Large Language Models (LLMs). First, we will detect the onset of major life events (e.g., health events, divorce) from web browsing behavior using theory-informed machine learning and link these measures with repeated responses to survey items from resilience research. Second, we will handle missing data in rating scales and free-text responses by building LLM-proxies that role-play a set of “characters’’ and simulate their survey responses through fine-tuning and in-context learning. Third, we will analyze resilient responses after major life events and the predictive value of psychosocial resilience factors for mental responses by comparing (i) survey-based measures used in resilience research with (ii) the augmented measures obtained from our AI-powered infrastructure. This comparison will assess the added value of our AI approach and shed light on potential biases of findings in resilience research.&lt;/p&gt;
-&lt;p&gt;The project is a collaboration with my colleagues from GESIS 
+&lt;p&gt;The project is a collaboration with my GESIS colleagues 
 &lt;a href=&#34;https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/claudia.wagner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claudia Wagner&lt;/a&gt; and 
 &lt;a href=&#34;https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Bernd.Weiss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bernd Weiß&lt;/a&gt; as well as the 
 &lt;a href=&#34;https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/leibniz-institute-for-resilience-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leibniz Institute for Resilience Research (LIR)&lt;/a&gt;. It brings together experts in survey methodology, computational social science, and resilience research to create and evaluate methodological advances to improve the quality of survey-based research in diverse disciplines.&lt;/p&gt;
