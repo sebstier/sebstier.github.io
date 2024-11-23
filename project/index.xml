@@ -13,7 +13,22 @@
     </image>
     
     <item>
-      <title>Negative Campaigning in German elections: Measurement, Dynamics, and Determinants</title>
+      <title>Developing AI-Powered survey infrastructures to enhance resilience research</title>
+      <link>https://sebastianstier.com/project/airesil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/project/airesil/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;voters&#34; src=&#34;https://sebastianstier.com/files/airesil.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Resilience research investigates what enables people to maintain their mental health when facing stress. Resilience research faces two methodological problems: 1) imprecise measurements due to survey self-reports and variations in timing of stressor exposure across individuals, and 2) people dropping out of studies due to stress. As a remedy, this project will develop the first AI-powered survey infrastructure that integrates web browsing data with surveys, enhanced by Large Language Models. The methodological innovations of this project will contribute to a better understanding of resilience processes and provide a blueprint for similar survey infrastructures in the Leibniz Association and beyond.&lt;/p&gt;
+&lt;p&gt;The project is a collaboration with my colleagues from GESIS 
+&lt;a href=&#34;https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/claudia.wagner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claudia Wagner&lt;/a&gt;, 
+&lt;a href=&#34;https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Bernd.Weiss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bernd Weiß&lt;/a&gt; and the [Leibniz Institute for Resilience Research (LIR)](
+&lt;a href=&#34;https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/leibniz-institute-for-resilience-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/leibniz-institute-for-resilience-research&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Negative campaigning in German elections: Measurement, dynamics, and determinants</title>
       <link>https://sebastianstier.com/project/negative-campaigning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sebastianstier.com/project/negative-campaigning/</guid>
