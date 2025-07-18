@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judith Gilsbach | Sebastian Stier</title>
+    <link>https://sebastianstier.com/author/judith-gilsbach/</link>
+      <atom:link href="https://sebastianstier.com/author/judith-gilsbach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judith Gilsbach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebastianstier.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Judith Gilsbach</title>
+      <link>https://sebastianstier.com/author/judith-gilsbach/</link>
+    </image>
+    
+    <item>
+      <title>Beyond time delays: How web scraping distorts measures of online news consumption</title>
+      <link>https://sebastianstier.com/publication/ulloa-2025/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sebastianstier.com/publication/ulloa-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
